@@ -1,4 +1,5 @@
-#pwa-splash 
+# pwa-splash
+
 >A quick and dirty PHP script for generating a complete set of splash screens for your PWA. 
 > 
 > Gary Royal
